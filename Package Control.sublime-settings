@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"D:/Program Files/Sublime Text 3/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"Http Requester",
+		"JavaScript Completions",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarFolders",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"Theme - SoDaReloaded",
+		"WordCount"
+	]
+}

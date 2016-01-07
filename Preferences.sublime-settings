@@ -1,0 +1,59 @@
+{
+	"binary_file_patterns":
+	[
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/LAZY.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.ttf",
+		"*.*classpath",
+		"*.project",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".settings",
+		"bin",
+		"target"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"PHP",
+		"Vintage"
+	],
+	"theme": "Soda Light 3.sublime-theme"
+}
