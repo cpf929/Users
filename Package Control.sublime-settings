@@ -6,6 +6,7 @@
 	],
 	"in_process_packages":
 	[
+		"SublimeAStyleFormatter"
 	],
 	"installed_packages":
 	[
@@ -22,16 +23,15 @@
 		"HTML5",
 		"Http Requester",
 		"JavaScript Completions",
+		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"Seti_UI",
 		"SideBarFolders",
-		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"SyncedSideBar",
-		"Theme - Soda",
-		"Theme - SoDaReloaded",
 		"WordCount"
 	]
 }

@@ -2,14 +2,20 @@
 	"folders":
 	[
 		{
+			"path": "F:\\workspace\\tanxdoc\\trunk\\tools\\query_api"
+		},
+		{
+			"path": "F:\\workspace\\tanxdoc\\trunk\\docs\\dictionary"
+		},
+		{
 			"path": "F:\\workspace\\own\\swagger-demo"
 		},
 		{
-			"path": "C:\\Users\\chenpf\\Desktop\\platform-manage"
+			"path": "F:\\workspace\\dsp\\code\\trunk\\admanager_presentation"
 		},
 		{
 			"path": "C:\\Users\\chenpf\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
 		}
 	],
-	"swap_append_load": true
+	"swap_append_load": false
 }
